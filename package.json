@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "materialize-css": "^1.0.0",
     "react": "^16.6.3",
+    "react-animated-slider": "^1.1.4",
     "react-burger-menu": "^2.5.4",
     "react-dom": "^16.6.3",
     "react-native-elements": "^0.19.1",

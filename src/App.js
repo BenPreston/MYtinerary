@@ -8,6 +8,7 @@ import LoginOrCreate from "./Components/LoginOrCreate";
 import Home from "./Components/Home";
 import Header from "./Components/Header";
 import CityGrid from "./Components/CityGrid";
+import Carousel from "./Components/Carousel";
 
 class App extends Component {
   render() {
@@ -18,6 +19,7 @@ class App extends Component {
         <PromoText className="promo-content" />
         <Browse className="arrowImage" />
         <CityGrid />
+        <Carousel />
       </div>
     );
   }
